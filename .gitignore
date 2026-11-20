@@ -1,0 +1,8 @@
+.deps/
+__pycache__/
+outputs/
+*.pyc
+.env
+*.sqlite3
+*.sqlite3-*
+*.zip
